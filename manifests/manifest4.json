@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "In Copyright. Contributed by Kelly Reiss and Chelsea Eidbo",
+  "attribution" : "In Copyright. Contributed by Kelly Reiss and Chelsea Eidbo. Arranged by Carol Ng-He",
   "sequences" : [ {
     "@id" : "http://4dbc35b7-85d5-481d-85dc-cd48fb560fbc",
     "@type" : "sc:Sequence",
