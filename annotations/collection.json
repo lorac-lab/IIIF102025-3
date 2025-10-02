@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://lorac-lab.github.io/IIIF102025-3/annotations/a6f6d3c87db7e62944496452129665f3.json" ],
+  "@id" : "https://lorac-lab.github.io/IIIF102025-3/annotations/collection.json",
+  "label" : "All annotations loaded in lorac-lab/IIIF102025-3 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
