@@ -1,0 +1,13 @@
+{
+  "id" : "https://lorac-lab.github.io/IIIF102025-3/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in lorac-lab/IIIF102025-3 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lorac-lab.github.io/IIIF102025-3/manifests/manifest4.json",
+    "label" : "Rosalind Franklin University of Medicine and Science Collection"
+  } ]
+}
