@@ -1,0 +1,203 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://6b309b2f-a6b9-4b6f-a077-b08e8133b65e",
+	"@type": "sc:Manifest",
+	"label": "Rosalind Franklin University of Medicine and Science Collection",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "RFUMS Architecture in History",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "In Copyright. Contributed by Kelly Reiss and Chelsea Eidbo",
+	"sequences": [
+		{
+			"@id": "http://4dbc35b7-85d5-481d-85dc-cd48fb560fbc",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://88d1dfbf-f0dd-4d5a-8c8c-94500ff5f6a7",
+					"@type": "sc:Canvas",
+					"label": "1001 Dearborn Scholl",
+					"height": 7711,
+					"width": 12448,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dfd7cddf-16ce-4e61-b5fd-b64530fa59b3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/8/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/8",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 7711,
+								"width": 12448
+							},
+							"on": "http://88d1dfbf-f0dd-4d5a-8c8c-94500ff5f6a7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://446c832f-78c7-4fd0-bda4-733e02dfd7a5",
+					"@type": "sc:Canvas",
+					"label": "Chicago Medical School at 710 Wolcott Ave.",
+					"height": 4753,
+					"width": 5960,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c439a7b3-302e-4524-a310-538017c1fd4e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/3/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/3",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 4753,
+								"width": 5960
+							},
+							"on": "http://446c832f-78c7-4fd0-bda4-733e02dfd7a5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://76384971-3a7e-4036-a578-430d5829437c",
+					"@type": "sc:Canvas",
+					"label": "Chicago Medical School and University of Health Sciences at 2020 Odgen Ave.",
+					"height": 10375,
+					"width": 14496,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4cb0c3a8-6400-4062-9308-9e891d4e35f4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/6/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/6",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 10375,
+								"width": 14496
+							},
+							"on": "http://76384971-3a7e-4036-a578-430d5829437c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6bb2b0c2-3ad4-4530-b50a-4ac07a7d0482",
+					"@type": "sc:Canvas",
+					"label": "Illinois College of Chiropody First Building (1912-1921) 1321 N. Clark St. Chicago, IL",
+					"height": 3588,
+					"width": 2880,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6ba128e1-d694-4e04-8521-512ec0973601",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/1/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/1",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 3588,
+								"width": 2880
+							},
+							"on": "http://6bb2b0c2-3ad4-4530-b50a-4ac07a7d0482"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f9a0102e-9793-411b-ab5e-13f0afebd70f",
+					"@type": "sc:Canvas",
+					"label": "Chicago Medical School Plaque",
+					"height": 2613,
+					"width": 1841,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1536462a-7123-4bc2-87a6-093cf16dd904",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17214.contentdm.oclc.org/digital/iiif/ros_views/2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 2613,
+								"width": 1841
+							},
+							"on": "http://f9a0102e-9793-411b-ab5e-13f0afebd70f"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [
+    {
+        "@id": "http://example.org/iiif/book1/range/top",
+        "@type": "sc:Range",
+        "label": "Table of Content",
+        "viewingHint": "top",
+        "ranges": [
+            "http://example.org/iiif/book1/range/intro"
+        ]
+    },
+    {
+        "@id": "http://example.org/iiif/book1/range/intro",
+        "@type": "sc:Range",
+        "label": "Introduction",
+        "canvases": [
+            "http://f9a0102e-9793-411b-ab5e-13f0afebd70f"
+        ]
+    }
+]
+}
