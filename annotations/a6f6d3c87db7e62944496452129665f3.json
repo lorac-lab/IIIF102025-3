@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<table class=\"ItemView-itemMetadata item-description ItemMetadata-itemMetaPrint table\" style=\"box-sizing: inherit; border-spacing: 0px; border-collapse: collapse; background-color: transparent; width: 688px; max-width: 100%; margin-bottom: 25px; margin-top: 3px; font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif; font-size: 12px;\" data-id=\"metadataTable\">\n<tbody style=\"box-sizing: inherit;\">\n<tr class=\"ItemMetadata-metadatarow field-descri\" style=\"box-sizing: inherit;\">\n<td class=\"field-value\" style=\"box-sizing: inherit; padding: 8px; overflow-wrap: break-word; word-break: break-all; line-height: 1.42857; vertical-align: top; border-top: none;\"><span style=\"box-sizing: inherit; display: table; overflow-wrap: break-word; table-layout: fixed; width: 595.555px; word-break: normal; white-space-collapse: preserve;\"><br class=\"Apple-interchange-newline\" />710 Wolcott Ave. was the home of the Chicago Medical School from 1930 to 1968. Adjacent to Cook County Hospital and formerly the Francis E. Willard National Temperance Hospital, the building was perfect to teach medical students as their class size swelled from 130 students when the building was adopted to over 250 when they moved on to 2020 Ogden Ave. The building was comprised of five floors, the first being administration and the Dispensary, the second being a lecture rooms and the library, and the remaining three held laboratories.\n\n\n",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<table class=\"ItemView-itemMetadata item-description ItemMetadata-itemMetaPrint table\" style=\"box-sizing: inherit; border-spacing: 0px; border-collapse: collapse; background-color: transparent; width: 688px; max-width: 100%; margin-bottom: 25px; margin-top: 3px; font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif; font-size: 12px;\" data-id=\"metadataTable\">\n<tbody style=\"box-sizing: inherit;\">\n<tr class=\"ItemMetadata-metadatarow field-descri\" style=\"box-sizing: inherit;\">\n<td class=\"field-value\" style=\"box-sizing: inherit; padding: 8px; overflow-wrap: break-word; word-break: break-all; line-height: 1.42857; vertical-align: top; border-top: none;\"><span style=\"box-sizing: inherit; display: table; overflow-wrap: break-word; table-layout: fixed; width: 595.555px; word-break: normal; white-space-collapse: preserve;\"><br class=\"Apple-interchange-newline\" />710 Wolcott Ave. was the home of the Chicago Medical School from 1930 to 1968. Adjacent to Cook County Hospital and formerly the Francis E. Willard National Temperance Hospital, the building was perfect to teach medical students as their class size swelled from 130 students when the building was adopted to over 250 when they moved on to 2020 Ogden Ave. The building was comprised of five floors, the first being administration and the Dispensary, the second being a lecture rooms and the library, and the remaining three held laboratories.</span></td>\n</tr>\n</tbody>\n</table>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/235423739",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-10-02T19:26:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759433165213",
+    "dcterms:modified" : "2025-10-02T19:26:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lorac-lab.github.io/IIIF102025-3/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=660,715,4888,2754"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M659.87018,715.1193h2444.20877v0h2444.20877v1376.86842v1376.86842h-2444.20877h-2444.20877v-1376.86842z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_659a6aca-3e6a-4464-be16-befbaecbc66a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://446c832f-78c7-4fd0-bda4-733e02dfd7a5"
+    } ]
+  } ],
+  "@id" : "https://lorac-lab.github.io/IIIF102025-3/annotations/a6f6d3c87db7e62944496452129665f3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
